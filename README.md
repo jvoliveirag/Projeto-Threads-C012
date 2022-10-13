@@ -1,5 +1,5 @@
 # Projeto-Threads-C012
-This repository contains the project of the discipline "Operating Systems" of the National Institute of Telecommunications - INATEL, which aims to apply and practice the concepts of threads.
+This repository contains the project of the "Operating Systems" subject of the National Institute of Telecommunications - INATEL, which aims to apply and practice the concepts of threads.
 
 <br>
 
